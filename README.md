@@ -1,0 +1,31 @@
+# Kashishca.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hi</title>
+        </head>
+        <body>
+
+<p> OKAY fdgvfdsbvd vfbskdjvosdhnv svsnhvsdhvsdhnvsd vksdhvsdoivsd vsdhvnsdonv cxskvhosdn <b>edrgedrg</b>  vfjklsdvs  </p>
+<a href="https://www.youtube.com/?gl=IN">hyello 
+
+
+<h1>
+    <div>
+        <label for="gender-male">male</label>   
+        <input type="radio" name="gender-choic" value="choice">   
+    </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </a>
+</h1>
+
+
+<div id="reg-form">
+    <form action="" method="">
+        <label for="first">name</label>
+        <input type="text" name="firsts" placeholder="kashish" >
+
+    
+  
+
+        </body>
+            
+</html>                                           
