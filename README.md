@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 
 <html>
+    <head>
     <title></title>
-    
+    </head>
         <body>
             
             <p> <b>MANSI</b> tuh na ek number ki chutiya hai</p>
