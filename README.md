@@ -5,27 +5,12 @@
         <title>hi</title>
         </head>
         <body>
-
-<p> OKAY fdgvfdsbvd vfbskdjvosdhnv svsnhvsdhvsdhnvsd vksdhvsdoivsd vsdhvnsdonv cxskvhosdn <b>edrgedrg</b>  vfjklsdvs  </p>
-<a href="https://www.youtube.com/?gl=IN">hyello 
-
-
+            <big>
 <h1>
-    <div>
-        <label for="gender-male">male</label>   
-        <input type="radio" name="gender-choic" value="choice">   
-    </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </a>
-</h1>
-
-
-<div id="reg-form">
-    <form action="" method="">
-        <label for="first">name</label>
-        <input type="text" name="firsts" placeholder="kashish" >
-
-    
-  
-
+            <p> <b>MANSi</b>tuh na ek number ki chutiya hai</p>
+            <a href="https://memetemplatehouse.com/wp-content/uploads/2020/05/bura-mat-manana-chutiya-toh-tu-hai-meme-template.jpg"><b>Henlo</b> now click on me 
+                </h1>
+    </big>
         </body>
             
 </html>                                           
