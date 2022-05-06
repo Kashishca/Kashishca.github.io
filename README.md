@@ -9,12 +9,12 @@
 <p> <b>BHAI</b> tuh na ek number ka chutiya hai</p>
         <hr>
             <a href="https://memetemplatehouse.com/wp-content/uploads/2020/05/bura-mat-manana-chutiya-toh-tu-hai-meme-template.jpg"><b>Ab dekh kya raha hai,</b> click on me please. </a>
-        </h>
-                
+        <hr>
+              <hr>  
                 
                 <p>YEH HAI add in the beggingng for sinlge linked list
-    </h>
-                    #include <stdio.h>
+    <hr>
+ #include <stdio.h>
 #include <stdlib.h>
 struct node
 {
